@@ -1,2 +1,2 @@
-如果你读到了这段话，说明本文档是修改前的版本，我们将回退修改到该版本
+This is the original version of test.md
 Hello,git!
